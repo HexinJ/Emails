@@ -1,0 +1,14 @@
+/Users/hexinjiang/Desktop/Emails/bin/Debug/net8.0/Emails
+/Users/hexinjiang/Desktop/Emails/bin/Debug/net8.0/Emails.deps.json
+/Users/hexinjiang/Desktop/Emails/bin/Debug/net8.0/Emails.runtimeconfig.json
+/Users/hexinjiang/Desktop/Emails/bin/Debug/net8.0/Emails.dll
+/Users/hexinjiang/Desktop/Emails/bin/Debug/net8.0/Emails.pdb
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/Emails.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/Emails.AssemblyInfoInputs.cache
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/Emails.AssemblyInfo.cs
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/Emails.csproj.CoreCompileInputs.cache
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/Emails.dll
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/refint/Emails.dll
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/Emails.pdb
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/Emails.genruntimeconfig.cache
+/Users/hexinjiang/Desktop/Emails/obj/Debug/net8.0/ref/Emails.dll
